@@ -1,3 +1,13 @@
+Title:SPIN Selling
+Date: 2023-03-04
+Modified: 2023-03-04
+Tags:sales
+Slug: spin
+
+
+
+
+
 #Chapter 1
 traditional sales tactics like opening the call with personal interests/benefit statements, focusing on open/close questions, giving enefits, objection handling, don’t work on larger sales
 larger sales have longer sales cycles where pitch gets forgotten and pushiness hurts in a multi-call sale, building value is key for larger sales due to size of commit,
