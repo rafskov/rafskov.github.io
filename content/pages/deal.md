@@ -1,3 +1,10 @@
+Title:Win After the Deal
+Date: 2023-03-04
+Modified: 2023-03-04
+Tags:real estate
+Slug: denby
+
+
 #mindset, mentorship, motivation
 
 The way your mind approaches an activity determines the action or inaction that produces the end result
