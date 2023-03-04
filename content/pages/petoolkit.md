@@ -1,4 +1,15 @@
 
+Title: The PE Toolkit
+Date: 2023-03-04
+Modified: 2023-03-04
+Tags:private equity
+Slug: petoolkit
+
+
+
+
+
+
 ![book cover](https://m.media-amazon.com/images/I/81a311Md1HL._AC_UY436_FMwebp_QL65_.jpg)
 
 # deal sourcing

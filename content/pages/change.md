@@ -1,3 +1,15 @@
+Title:HBR Change Management
+Date: 2023-03-04
+Modified: 2023-03-04
+Tags:change management
+Slug: hbr
+
+
+
+
+
+
+
 #leading change by kotter
 
 

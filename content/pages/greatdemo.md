@@ -1,3 +1,13 @@
+
+Title:Great Demo
+Date: 2023-03-04
+Modified: 2023-03-04
+Tags:sales
+Slug: greatdemo
+
+
+
+
 #what is a great demo
 
 1. Demo begins with most compelling screen or screens. Done in 2 minutes or less and audience asks ' How'd you do that?'

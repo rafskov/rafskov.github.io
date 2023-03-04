@@ -1,3 +1,15 @@
+
+Title:customer success
+Date: 2023-03-04
+Modified: 2023-03-04
+Tags:customersuccess
+Slug: customersuccess
+
+
+
+
+
+
 #why cs is suddently crucial
 
 benioff learned the hard way that new customer acquisition + retention+ upsell was they key to saas business model
