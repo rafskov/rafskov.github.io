@@ -2,7 +2,7 @@ AUTHOR = '@rafskov'
 SITENAME = 'Book Outlines For Change Makers'
 SITEURL = 'http://rafskov.github.io'
 
-OUTPUT_PATH= 'output'
+OUTPUT_PATH= '/workspaces/rafskov.github.io'
 PATH = '/workspaces/rafskov.github.io/content/pages/'
 
 
