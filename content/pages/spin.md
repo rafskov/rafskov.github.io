@@ -5,6 +5,13 @@ Tags:sales
 Slug: spin
 
 
+![book cover](https://m.media-amazon.com/images/I/71Fikm18CSS._AC_UY436_FMwebp_QL65_.jpg)
+
+[Win After the Deal](denby.html)
+[HBR Change Management](hbr.html)
+
+
+
 #Chapter 1
 traditional sales tactics like opening the call with personal interests/benefit statements, focusing on open/close questions, giving enefits, objection handling, don’t work on larger sales
 larger sales have longer sales cycles where pitch gets forgotten and pushiness hurts in a multi-call sale, building value is key for larger sales due to size of commit,
@@ -154,3 +161,4 @@ What have I learned that will change future calls on the account?
 What can I use elsewhere?
 
 Be detailed about parts of the call, specific questions, needs, behaviours and their impact, needs that changed...
+

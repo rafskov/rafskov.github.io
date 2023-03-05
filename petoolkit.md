@@ -8,7 +8,8 @@ Slug: petoolkit
 
 ![book cover](https://m.media-amazon.com/images/I/81a311Md1HL._AC_UY436_FMwebp_QL65_.jpg)
 
-[SPIN Selling](spin.html)
+c
+
 
 
 

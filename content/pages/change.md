@@ -5,6 +5,11 @@ Tags:change management
 Slug: hbr
 
 
+![book cover](https://m.media-amazon.com/images/I/717mQQCzeVL._AC_UY436_FMwebp_QL65_.jpg)
+
+[SPIN Selling](spin.html)
+[Win After the Deal](denby.html)
+[The Private Equity Toolkit](petoolkit.html)
 
 
 
