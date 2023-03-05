@@ -1,4 +1,5 @@
-# Book Outlines 
+
+# Book Outlines [here](http://rafskov.github.io)
 I'm going to save you some time. Here's notes on books you can read and apply to drive change.
 
 - How to win in real estate after the deal
